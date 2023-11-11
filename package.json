@@ -8,7 +8,7 @@
     "axios": "^0.21.1",
     "bootstrap": "^4.5.0",
     "css.gg": "^2.0.0",
-    "next": "^11.0.5",
+    "next": "^14.0.2",
     "next-images": "^1.4.0",
     "react": "^16.13.1",
     "react-bootstrap": "^1.4.0",
