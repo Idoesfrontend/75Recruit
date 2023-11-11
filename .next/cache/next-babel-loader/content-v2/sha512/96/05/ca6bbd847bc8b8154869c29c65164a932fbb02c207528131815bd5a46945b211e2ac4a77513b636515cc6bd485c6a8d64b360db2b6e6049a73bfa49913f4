@@ -1,0 +1,1 @@
+{"ast":null,"code":"import StoryblokClient from 'storyblok-js-client';\nconst Storyblok = new StoryblokClient({\n  accessToken: `${process.env.STORYBLOK_75RECRUIT_API_TOKEN}`,\n  cache: {\n    clear: 'auto',\n    type: 'memory'\n  }\n});\nexport default Storyblok;","map":null,"metadata":{},"sourceType":"module"}
