@@ -1,6 +1,11 @@
-const withImages = require('next-images')
-module.exports = withImages({
-    images: {
-        domains: ['a.storyblok.com'],
-    },
-});
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  reactStrictMode: true,
+  images: {
+    remotePatterns: [{
+      hostname: "a.storyblok.com"
+    }]
+  },
+}
+
+module.exports = nextConfig
