@@ -19,8 +19,8 @@ const ContactUs = () => (
                 extraClassName="site-header-one__fixed-top"
             />
             <MobileMenu />
-            <FAQ />
             <Team />
+            <FAQ />
             <Contact />
             <Footer />
         </Layout>

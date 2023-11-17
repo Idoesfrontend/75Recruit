@@ -17,7 +17,7 @@ const VideoOne = () => {
     <section className="video-one">
       <div
         className="container-fluid"
-        style={{ backgroundImage: `url(${videoBG})` }}
+        style={{ backgroundImage: `url('/images/resources/train.jpg')` }}
       >
         <div
           className="video-one__content wow fadeInLeft"

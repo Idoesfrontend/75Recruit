@@ -21,8 +21,8 @@ SwiperCore.default.use([Pagination]);
 
 const AppScreen = (props) => {
   const params = {
-    speed: 1000,
-    spaceBetween: 30,
+    speed: 800,
+    spaceBetween: 260,
     autoplay: {
       delay: 3000,
       disableOnInteraction: false,
@@ -67,34 +67,34 @@ const AppScreen = (props) => {
           <Swiper {...params}>
             <div className="item">
               {/*<img src={appImage1} alt="Awesome Image" />*/}
-              <Image src={appImage1} alt="public bikes are common" width={278} height={471}/>
+              <Image src={appImage1} alt="public bikes are common" width={236} height={432}/>
             </div>
             <div className="item">
-              <Image src={appImage2} alt="public bikes are common" width={278} height={471}/>
+              <Image src={appImage2} alt="public bikes are common" width={236} height={432}/>
             </div>
             <div className="item">
-              <Image src={appImage3} alt="public bikes are common" width={278} height={471}/>
+              <Image src={appImage3} alt="public bikes are common" width={236} height={432}/>
             </div>
             <div className="item">
-              <Image src={appImage4} alt="public bikes are common" width={278} height={471}/>
+              <Image src={appImage4} alt="public bikes are common" width={236} height={432}/>
             </div>
             <div className="item">
-              <Image src={appImage5} alt="public bikes are common" width={278} height={471}/>
+              <Image src={appImage5} alt="public bikes are common" width={236} height={432}/>
             </div>
             <div className="item">
-              <Image src={appImage1} alt="public bikes are common" width={278} height={471}/>
+              <Image src={appImage1} alt="public bikes are common" width={236} height={432}/>
             </div>
             <div className="item">
-              <Image src={appImage2} alt="public bikes are common" width={278} height={471}/>
+              <Image src={appImage2} alt="public bikes are common" width={236} height={432}/>
             </div>
             <div className="item">
-              <Image src={appImage3} alt="public bikes are common" width={278} height={471}/>
+              <Image src={appImage3} alt="public bikes are common" width={236} height={432}/>
             </div>
             <div className="item">
-              <Image src={appImage4} alt="public bikes are common" width={278} height={471}/>
+              <Image src={appImage4} alt="public bikes are common" width={236} height={432}/>
             </div>
             <div className="item">
-              <Image src={appImage5} alt="public bikes are common" width={278} height={471}/>
+              <Image src={appImage5} alt="public bikes are common" width={236} height={432}/>
             </div>
           </Swiper>
         </div>

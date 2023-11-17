@@ -1,20 +1,25 @@
-
 import BlockTitle from "./BlockTitle";
-import React, { useState } from 'react';
+import React, { useState } from "react";
+import Link from "next/link";
 
-import { useForm } from '@formcarry/react';
+import { useForm } from "@formcarry/react";
 const Contact = () => {
   // const [show, setShow] = useState(false);
   //
   // const handleClose = () => setShow(false);
   // const handleShow = () => setShow(true);
 
-  const {state, submit} = useForm({
-    id: 'vm25FX26qn'
+  const { state, submit } = useForm({
+    id: "vm25FX26qn",
   });
 
   if (state.submitted) {
-    return <div>Thank you! We received your submission. We will be in contact in 24 hours or less.</div>;
+    return (
+      <div>
+        Thank you! We received your submission. We will be in contact in 24
+        hours or less.
+      </div>
+    );
   }
   // function handleSubmit(event) {
   //   alert("Thank you for submitting");
@@ -31,18 +36,27 @@ const Contact = () => {
       <div className="container mx-auto">
         <div className="row mx-auto">
           <div className="col-lg-12">
-            <form onSubmit={submit} className="contact-form-validated contact-one__form">
-              <BlockTitle
-                textAlign="left"
-                paraText="Contact Now"
-                titleText={`Have Question? Write \n a Message [Anything!]`}
-              />
+            <form
+              onSubmit={submit}
+              className="contact-form-validated contact-one__form"
+            >
+              <div className={`block-title text-left `}>
+                <Link style={{ textDecoration: "inherit" }} href={"/contactus"}>
+                  <p>Contact Now</p>
+                </Link>
+                <h3>{"Have Question? Write \n a Message [Anything!]"}</h3>
+              </div>
               <div className="row">
                 <div className="col-lg-6">
                   <input type="text" placeholder="Name" name="name" />
                 </div>
                 <div className="col-lg-6">
-                  <input id="email" type="email" placeholder="Email Address" name="email" />
+                  <input
+                    id="email"
+                    type="email"
+                    placeholder="Email Address"
+                    name="email"
+                  />
                 </div>
                 <div className="col-lg-6">
                   <input type="text" placeholder="Subject" name="subject" />
@@ -64,7 +78,6 @@ const Contact = () => {
                 </div>
               </div>
             </form>
-
           </div>
           {/*<div*/}
           {/*  className="col-lg-5 d-flex wow fadeInRight"*/}

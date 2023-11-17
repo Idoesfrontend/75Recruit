@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import NavLinks from "./NavLinks";
 import Link from "next/link";
 import LogoImage from "../assets/images/logo-1-1.png";
+import Image from "next/image";
 
 const HeaderHome = (props) => {
   const [sticky, setSticky] = useState(false);
@@ -57,7 +58,7 @@ mobileMenu();
       <div className="container-fluid">
         <div className="site-header-one__logo">
           <a href="/">
-            <img src={LogoImage} width="129" alt="" />
+            <Image src={LogoImage} width="129" alt="" />
           </a>
           <div onClick={realToggle} className="side-menu__toggler">
        <i className="gg-menu"></i>
