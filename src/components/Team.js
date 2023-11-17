@@ -104,7 +104,7 @@ const Team = () => {
                 <p>English</p>
                 <h6>Team@75Recruit.com</h6>
                 <h6>
-                  +1-716-427-2129 <a  target="_blank" href="http://wa.me/17164272129"> Message us</a>
+                  <a  target="_blank" href="http://wa.me/17164272129">+1-716-427-2129  </a>
                   <span style={{ fontSize: "8px" }}>WhatsApp</span>
                 </h6>
                 <h6>
