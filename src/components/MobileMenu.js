@@ -25,7 +25,7 @@ const MobileMenu = () => {
             Come experience consultative recruiting. We answer your questions with real answers - no sugar coating.
           </p>
           <p>
-            <a href="mailto:Apply75Recruit@outlook.com">Ashley@75Recruit.com</a> <br />
+            <a href="mailto:Apply75Recruit@outlook.com">Apply75Recruit.com</a> <br />
             <a target="_blank" href="https://join.skype.com/invite/vd9j1iM5tK94" >live:.cid.3ecf09b6e26552ac</a> Skype <br/>
             <a target="_blank" href="http://wa.me/17164272129">+1-716-427-2129 (WhatsApp)</a>
           </p>
