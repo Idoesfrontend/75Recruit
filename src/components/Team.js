@@ -104,11 +104,11 @@ const Team = () => {
                 <p>English</p>
                 <h6>Team@75Recruit.com</h6>
                 <h6>
-                  +86-151-386-93451
-                  <span style={{ fontSize: "8px" }}>Skype/WhatsApp</span>
+                  +1-716-427-2129
+                  <span style={{ fontSize: "8px" }}>WhatsApp</span>
                 </h6>
                 <h6>
-                  <i className="gg-phone"></i>+86-151-386-93451
+                  <i className="gg-phone"></i>live:.cid.3ecf09b6e26552ac (Skype)
                 </h6>
                 <div className="team-one__image">
                   <img

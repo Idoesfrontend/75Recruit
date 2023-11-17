@@ -26,8 +26,8 @@ const MobileMenu = () => {
           </p>
           <p>
             <a href="mailto:Apply75Recruit@outlook.com">Ashley@75Recruit.com</a> <br />
-            <a href="tel:+86-151-386-93451">+86-151-386-93451</a> <br/>
-            <a href="tel:86-155-155-12405">+86-151-386-93451 (Skype/WhatsApp)</a>
+            <a href="tel:+86-151-386-93451">live:.cid.3ecf09b6e26552ac</a> <br/>
+            <a href="tel:86-155-155-12405">+1-716-427-2129 (WhatsApp)</a>
           </p>
           {/*<div className="side-menu__social">*/}
           {/*  <a href="#">*/}
