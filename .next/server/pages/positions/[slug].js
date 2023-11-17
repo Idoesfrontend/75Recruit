@@ -867,7 +867,7 @@ const BlogPost = ({
   height: 414
 })), __jsx("div", {
   className: "blog-author__content"
-}, __jsx("h3", null, "Ashley@75Recruit.com"), __jsx("p", null, "The chinese job market for foreign teachers moves quite fast and a lot of times, we simply dont have enough time to put all the ads on our website - the best way to find out if we have the position you are looking for us is to contact us and we will look through our database to see if we have something that suits you well. Email us at Ashley@75Recruit.com"))), __jsx(Contact["a" /* default */], null)))))), __jsx(Footer["a" /* default */], null)));
+}, __jsx("h3", null, "team@75Recruit.com"), __jsx("p", null, "The chinese job market for foreign teachers moves quite fast and a lot of times, we simply dont have enough time to put all the ads on our website - the best way to find out if we have the position you are looking for us is to contact us and we will look through our database to see if we have something that suits you well. Email us at Ashley@75Recruit.com"))), __jsx(Contact["a" /* default */], null)))))), __jsx(Footer["a" /* default */], null)));
 
 /* harmony default export */ var storyblok_BlogPost = (BlogPost);
 // EXTERNAL MODULE: ./utils/storyblok-service.js + 1 modules
@@ -3567,7 +3567,7 @@ const MobileMenu = () => {
     className: "side-menu__content"
   }, __jsx("p", null, "Come experience consultative recruiting. We answer your questions with real answers - no sugar coating."), __jsx("p", null, __jsx("a", {
     href: "mailto:Apply75Recruit@outlook.com"
-  }, "Ashley@75Recruit.com"), " ", __jsx("br", null), __jsx("a", {
+  }, "team@75Recruit.com"), " ", __jsx("br", null), __jsx("a", {
     href: "tel:+86-151-386-93451"
   }, "+86-151-386-93451"), " ", __jsx("br", null), __jsx("a", {
     href: "tel:86-155-155-12405"

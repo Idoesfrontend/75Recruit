@@ -64,7 +64,7 @@ function BlogMainPage({ posts }) {
               that we have available. The best is to contact us on{" "}
               <Link style={{textDecoration: 'inherit'}} href="/contactus">our contact page</Link> to speak with one
               of our agents about what specifically you are looking or if you
-              any special requirements or email us at Ashley@75Recruit.com{" "}
+              any special requirements or email us at Team@75Recruit.com{" "}
             </p>
           </Col>
         </Row>

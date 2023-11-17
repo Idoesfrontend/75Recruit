@@ -3452,7 +3452,7 @@ const MobileMenu = () => {
     className: "side-menu__content"
   }, __jsx("p", null, "Come experience consultative recruiting. We answer your questions with real answers - no sugar coating."), __jsx("p", null, __jsx("a", {
     href: "mailto:Apply75Recruit@outlook.com"
-  }, "Ashley@75Recruit.com"), " ", __jsx("br", null), __jsx("a", {
+  }, "Team@75Recruit.com"), " ", __jsx("br", null), __jsx("a", {
     href: "tel:+86-151-386-93451"
   }, "+86-151-386-93451"), " ", __jsx("br", null), __jsx("a", {
     href: "tel:86-155-155-12405"

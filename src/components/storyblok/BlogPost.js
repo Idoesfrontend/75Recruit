@@ -56,9 +56,9 @@ const BlogPost = ({ blok }) => (
                                     <Image src={LogoImage} width={544} height={113}></Image>
                                 </div>
                                 <div className="blog-author__content">
-                                    <h3>Ashley@75Recruit.com</h3>
+                                    <h3>Team@75Recruit.com</h3>
                                     <p>
-                                        The chinese job market for foreign teachers moves quite fast and a lot of times, we simply dont have enough time to put all the ads on our website - the best way to find out if we have the position you are looking for us is to contact us and we will look through our database to see if we have something that suits you well. Email us at Ashley@75Recruit.com
+                                        The chinese job market for foreign teachers moves quite fast and a lot of times, we simply dont have enough time to put all the ads on our website - the best way to find out if we have the position you are looking for us is to contact us and we will look through our database to see if we have something that suits you well. Email us at Team@75Recruit.com
 
                                     </p>
                                 </div>

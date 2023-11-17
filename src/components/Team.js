@@ -102,7 +102,7 @@ const Team = () => {
               <div className="team-one__inner">
                 <h3>Teachers</h3>
                 <p>English</p>
-                <h6>Ashley@75Recruit.com</h6>
+                <h6>Team@75Recruit.com</h6>
                 <h6>
                   +86-151-386-93451
                   <span style={{ fontSize: "8px" }}>Skype/WhatsApp</span>
