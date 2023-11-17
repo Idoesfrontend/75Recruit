@@ -108,7 +108,7 @@ const Team = () => {
                   <span style={{ fontSize: "8px" }}>WhatsApp</span>
                 </h6>
                 <h6>
-                  <i className="gg-phone"></i>live:.cid.3ecf09b6e26552ac (Skype)
+                  <i className="gg-phone"></i><a target="_blank" href="https://join.skype.com/invite/vd9j1iM5tK94" >live:.cid.3ecf09b6e26552ac</a> (Skype)
                 </h6>
                 <div className="team-one__image">
                   <img
